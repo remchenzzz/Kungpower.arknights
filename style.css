@@ -15,7 +15,7 @@ li{ list-style-type:none;}
 body{
 	background-attachment: fixed;
 	background-color: #000;
-	background-image: url(/Kungpower.arknights//images/bj.jpg);
+	background-image: url(bj.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 }
@@ -86,3 +86,4 @@ body{
 	font-size: 12px;
 	color: #000;
 }
+
